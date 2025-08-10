@@ -22,10 +22,10 @@ print("\n")
 # Exercitiu 3
 
 numar1, numar2 = map(float, input("Scrie doua numere pentru a fi comparate: ").split())
-print("\nNumerele dvs sunt: ", numar1, numar2)
-print("\nNumarul 1 este mai mare decat numarul 2 ",numar1 > numar2)
-print("\nNumarul 1 este mai mic decat numarul 2 ",numar1 < numar2)
-print("\nNumarul 1 este egal cu numarul 2 ",numar1 == numar2)
+print("\nNumerele dvs sunt: ", numar1, ",", numar2)
+print("\nNumarul", numar1, "este mai mare decat", numar2 , numar1 > numar2)
+print("\nNumarul", numar1, "este mai mic decat", numar2 , numar1 < numar2)
+print("\nNumarul", numar1, "este egal cu", numar2 , numar1 == numar2)
 print("\n")
 
 
