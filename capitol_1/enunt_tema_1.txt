@@ -7,3 +7,4 @@ Enunțul temei trebuie scris ca un comentariu la începutul fișierului.
 
 
 Succes!
+#edit
