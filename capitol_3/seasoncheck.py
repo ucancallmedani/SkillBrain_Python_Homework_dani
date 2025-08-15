@@ -1,4 +1,4 @@
-# Determina anotimpul folosing luna introdusa de utilizator.
+# Determina anotimpul folosind luna introdusa de utilizator.
 
 
 iarna = list(map(str.lower, ["Ianuarie", "Februarie", "Decembrie"]))
